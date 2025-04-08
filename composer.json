@@ -1,0 +1,15 @@
+{
+  "name": "xenoxyt/lruchttp",
+  "description": "A php http client!",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kollawat Janchaiyaphum",
+      "email": "hr@autherx.com"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  }
+}
