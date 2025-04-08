@@ -1,5 +1,5 @@
 # LrucHTTP
-## - Lightweight resource-utilizing client for HTTP.
+### - Lightweight resource-utilizing client for HTTP.
 A simple, fluent PHP HTTP client library for making API requests with minimal configuration.
 
 ## Features
